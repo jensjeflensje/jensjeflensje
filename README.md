@@ -2,7 +2,7 @@
 I'm Jens, also known as jensjeflensje. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 16 years old, so I'm still in school.
 
 ## 🔭 I’m currently working on
-Sectet projects 😏
+Secret projects 😏
 
 
 ## 🌱 I’m currently learning
