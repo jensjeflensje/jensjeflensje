@@ -6,7 +6,7 @@ Secret projects 😏
 
 
 ## 🌱 I’m currently learning
-Even more coolk techonologies to work with.
+Even more cool techonologies to work with.
 
 ## 💬 Ask me about
 - Computers
