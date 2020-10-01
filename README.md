@@ -19,3 +19,6 @@ I started programming when I was about 12 years old. I wanted to make cool addit
 
 ## 📫 How to reach me
 My Discord tag is Jens de Router 💻 Jederu#5961, but you can also send me a message wherever else you find me.
+
+
+![jensjeflensje's github stats](https://github-readme-stats.vercel.app/api?username=jensjeflensje)
