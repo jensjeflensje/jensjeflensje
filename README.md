@@ -1,5 +1,5 @@
 ## 🙃 About me
-I'm Jens, also known as jensjeflensje. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 17 years old, so I'm still in school.
+I'm Jens, also known as jensjeflensje. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 17 years old.
 
 ## 🔭 I’m currently working on
 Secret projects 😏
