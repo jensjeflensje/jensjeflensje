@@ -13,12 +13,6 @@ I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff,
 - More about Django
 - About how to maintain an open-source project (well)
 
-## 💬 Ask me about
-- Computers
-- Hosting/servers
-- Linux
-- Programming (Python3, JavaScript, Java...)
-
 ## ⚡ Fun fact
 I started programming when I was about 12 years old. I wanted to make cool additions to Minecraft.
 
