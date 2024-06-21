@@ -1,7 +1,7 @@
 ![](image%20(15).png)
 
 ## 🙃 About me
-I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 19 years old.
+I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 20 years old.
 
 ## 🔭 I’m currently working on
 - A video co-creation platform at [Eddie](https://eddie.film)
