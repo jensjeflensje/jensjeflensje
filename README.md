@@ -7,11 +7,12 @@ I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff,
 - Inspiring teens with cool educational videos and workshops
 
 ## 🌱 I’m currently learning
-- More about NextJS & TypeScript
-- About how to maintain an open-source project (well)
+- How to maintain an open-source project (well)
+- More about electronics and Arduino
+- How to share knowledge even more effectively
 
 ## ⚡ Fun fact
 I started programming when I was about 12 years old. I wanted to make cool additions to Minecraft.
 
 ## 📫 How to reach me
-My Discord username is jensderouter, but you can also send me a message wherever else you find me.
+My Discord username is [jensderouter](https://discord.com/users/283554212019699722), but you can also send me a message wherever else you find me.
