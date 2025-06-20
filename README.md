@@ -1,5 +1,5 @@
 ## 🙃 About me
-I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 20 years old.
+I'm Jens, also known as jensjeflensje or jensderouter. I like programming stuff, mostly using Python. I live in The Netherlands, near Rotterdam. I'm 21 years old.
 
 ## 🔭 I’m currently working on
 - Some nifty projects involving Minecraft
